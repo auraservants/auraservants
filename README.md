@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Auri!
+### Hi there 👋 I'm Aura!
 https://auraservants.github.io/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auraservants)](https://github.com/anuraghazra/github-readme-stats)
